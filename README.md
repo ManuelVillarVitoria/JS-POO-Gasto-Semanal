@@ -1,13 +1,16 @@
-# Weekly Expense.
+# Weekly Expense
 
 _Based on a form, the project consists of doing the following:_
 
 _1.-Add a weekly budget._
+
 _2.-Create a list of expenses and gradually reduce the amount of the available budget._
+
 _3.-Once 50% has been spent, show the rest in yellow._
+
 _4.-Once 75% has been spent, show the rest in red._
 
-_All this dynamically through Javascript using classes through the OOP_
+_All this dynamically through Javascript using classes through the OOP._
 
 ### Settings 🔧
 
