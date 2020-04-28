@@ -15,7 +15,7 @@ _All this dynamically through Javascript using classes through the OOP._
 ### Settings 🔧
 
 _No installation required._
-gi
+
 ## Built with 🛠️
 
 _The tools used to create the project have been the following:_
