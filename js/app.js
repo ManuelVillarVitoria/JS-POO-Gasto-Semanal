@@ -62,6 +62,17 @@ class Interfaz{
         //Insertar al HTML
         gastosListado.appendChild(li);
     }
+    
+    //Comprueba el presupuesto restante
+    presupuestoRestante(cantidad){
+        //console.log(cantidadPresupuesto);
+        const restante = document.querySelector('span#restante');
+        //leemos el presupuesto restante
+        const presupuestoRestanteUsuario = 
+        cantidadPresupuesto.presupuestoRestante(cantidad)
+        //console.log(presupuestoRestanteUsuario);
+        restante.innerHTML = `${presupuestoRestanteUsuario}`;
+    }
 }
 
 
@@ -102,5 +113,6 @@ formulario.addEventListener('submit', function(e){
         //insertar en el HTML reutilizando el método del mensaje del error
         ui.imprimirMensaje('Correcto','correcto')
         ui.agregarGastoListado(nombreGasto,cantidadGasto);
+        ui.presupuestoRestante(cantidadGasto);
     }
 });
