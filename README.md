@@ -33,7 +33,10 @@ _The project is from the Udemy course(https://www.udemy.com/course/javascript-mo
 
 ## Expressions of gratitude 🎁
 
-* First of all, I thank God the Father, God the Son and God the Holy Spirit for their love, mercy and patience with me. 📢
+* First of all, I thank the only true God, Father, Son and Holy Spirit. 
+"For from him and through him and for him are all things.
+To him be the glory forever! Amen.
+(Romans 11:36) 📢
 
 ---
 ⌨️ with ❤️ by [ManuelVillarVitoria](https://github.com/ManuelVillarVitoria) 😊
